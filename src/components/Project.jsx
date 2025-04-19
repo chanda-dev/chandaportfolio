@@ -1,25 +1,6 @@
 export default function Projects() {
   const projects = [
     {
-      title: "CV builder",
-      tech: [
-        {
-          name: "Flutter",
-          image:
-            "https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg",
-        },
-        {
-          name: "Dart",
-          image:
-            "https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg",
-        },
-      ],
-      des: "This CV builder helps build CVs and generate them as PDF files.",
-      link: "https://github.com/chanda-dev/final_project_CV_builder",
-      image:
-        "https://scontent.fpnh8-2.fna.fbcdn.net/v/t39.30808-6/491842367_1176290390664524_6878205016899054266_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2gwNx8TZJg_qgqB9qtbcLnYhjHv2yACCdiGMe_bIAICVRLLa06Pxp351NtYVZtKieLgBYNR9ac6dqCJlcS71I&_nc_ohc=YdBOjf9dDFQQ7kNvwHMZDsw&_nc_oc=AdlYHFCYAsqVcFUWzPqqOPK8Zx3mxm9icbMfQRl4KPLT-Un9coET6nfTePxL6Q4A6ps&_nc_zt=23&_nc_ht=scontent.fpnh8-2.fna&_nc_gid=I9m7J3JaPRDsgA7Km2jAMQ&oh=00_AfF3CJijAbSZ5drDqxPgO8GR9ER5-JD5f-wXZqNN6aNWFQ&oe=680869A2",
-    },
-    {
       title: "E-learning Platform",
       tech: [
         {
@@ -41,6 +22,25 @@ export default function Projects() {
       link: "https://github.com/Makarasok24/infinity-learning",
       image:
         "https://scontent.fpnh8-2.fna.fbcdn.net/v/t39.30808-6/492010853_1176282690665294_4467503461319338301_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH4wMHxjkyS7A7K1lrW7TyGthuRkHk95Jq2G5GQeT3kmieUc2qOKZsDRZlTg8ZSU8Pvdvb7cgffiAJcPeLHR_UQ&_nc_ohc=Y46CIUy9nyAQ7kNvwFT5JD_&_nc_oc=AdlG8RU9MGZglZNbFFZV-2ppAkOC02OIFWqAKjaWvTsAyoZWPMbpG14bM__awMId6EQ&_nc_zt=23&_nc_ht=scontent.fpnh8-2.fna&_nc_gid=k63JXasDMybSMD5AlMfO5w&oh=00_AfEMGNzT_n2ILd9NKK0fEUlIfC_q5qwzglNlUmjICNwCHw&oe=680859FA",
+    },
+    {
+      title: "CV builder",
+      tech: [
+        {
+          name: "Flutter",
+          image:
+            "https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg",
+        },
+        {
+          name: "Dart",
+          image:
+            "https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg",
+        },
+      ],
+      des: "This CV builder helps build CVs and generate them as PDF files.",
+      link: "https://github.com/chanda-dev/final_project_CV_builder",
+      image:
+        "https://scontent.fpnh8-2.fna.fbcdn.net/v/t39.30808-6/491842367_1176290390664524_6878205016899054266_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2gwNx8TZJg_qgqB9qtbcLnYhjHv2yACCdiGMe_bIAICVRLLa06Pxp351NtYVZtKieLgBYNR9ac6dqCJlcS71I&_nc_ohc=YdBOjf9dDFQQ7kNvwHMZDsw&_nc_oc=AdlYHFCYAsqVcFUWzPqqOPK8Zx3mxm9icbMfQRl4KPLT-Un9coET6nfTePxL6Q4A6ps&_nc_zt=23&_nc_ht=scontent.fpnh8-2.fna&_nc_gid=I9m7J3JaPRDsgA7Km2jAMQ&oh=00_AfF3CJijAbSZ5drDqxPgO8GR9ER5-JD5f-wXZqNN6aNWFQ&oe=680869A2",
     },
   ];
 
