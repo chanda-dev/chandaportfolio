@@ -4,6 +4,7 @@ import About from "./components/About";
 import Projects from "./components/Project";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
+import Skills from "./components/Skills"; // Import the new Skills component
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
       </section>
       <section id="about">
         <About />
+      </section>
+      <section id="skills">
+        <Skills />
       </section>
       <section id="projects">
         <Projects />
