@@ -45,7 +45,7 @@ export default function Projects() {
   ];
 
   return (
-    <section id="projects" className="bg-gray-100 py-10">
+    <section id="projects" className="bg-gray-100 py-10 fade-in-left">
       <div className="p-5 w-[90%] mx-auto">
         <h2 className="text-4xl font-bold text-center mb-10 text-gray-800">
           Projects
