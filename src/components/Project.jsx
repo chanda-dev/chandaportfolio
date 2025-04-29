@@ -36,7 +36,7 @@ export default function Projects() {
             "https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg",
         },
       ],
-      des: "This CV builder helps build CVs and generate them as PDF files.",
+      des: "This project is the mobile app project that can let user to create the CV by just fill their information the form and generate it as pdf file",
       link: "https://youtu.be/QCD8xciXAk0?si=fbtt3Lusd9oPJ36N",
       image: "https://i.postimg.cc/15Bs4dBn/cv-builder.jpg",
     },
