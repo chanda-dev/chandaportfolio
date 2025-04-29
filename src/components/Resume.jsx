@@ -9,7 +9,7 @@ export default function Resume() {
       <div className="flex justify-center space-x-6">
         {/* Download CV */}
         <a
-          href="public/Chanda_Sok_CV.pdf"
+          href="/Chanda_Sok_CV.pdf"
           download="Chanda_Sok_CV.pdf"
           className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-blue-700 transition-colors duration-300"
         >
@@ -18,7 +18,7 @@ export default function Resume() {
 
         {/* Download Cover Letter */}
         <a
-          href="public/Chanda_Sok_Cover_Letter.pdf"
+          href="/Chanda_Sok_Cover_Letter.pdf"
           download="Chanda_Sok_Cover_Letter.pdf"
           className="bg-green-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-green-700 transition-colors duration-300"
         >
