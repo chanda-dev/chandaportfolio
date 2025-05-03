@@ -38,6 +38,10 @@ export default function Skills() {
       name: "Dart",
       image: "https://cdn.worldvectorlogo.com/logos/dart.svg",
     },
+    {
+      name: "Jira",
+      image: "https://cdn.worldvectorlogo.com/logos/jira-1.svg",
+    },
   ];
 
   return (
